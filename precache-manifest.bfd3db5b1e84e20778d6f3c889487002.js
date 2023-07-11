@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e0fb2c31f30e32bc0a5ad03881288a1",
+    "revision": "ba709ec2183e721f3e8eac723a10b863",
     "url": "/notes-keeper-website/index.html"
   },
   {
